@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **CS348: Information Systems, CS252: Systems Programming**
 
+- 🤝 I want to collaborate on [Watson Virtual Assistant](https://github.com/ehlacy01/Synopsis)
+
 - 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **ellis.h.lacy@gmail.com**
