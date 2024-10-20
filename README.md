@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ellis Lacy</h1>
 <h3 align="center">A passionate, eager software developer from Indianapolis, Indiana</h3>
 
-- 🔭 I’m currently working on **Autonomous Robotic Arm**
+- 🔭 I’m currently working on **A Fullstack web application to assist in the automation of unitholder management**
 
-- 🌱 I’m currently learning **CS348: Information Systems, CS252: Systems Programming**
+- 🌱 I’m currently learning **Front end development with React and AWS**
 
 - 🤝 I want to collaborate on [Watson Virtual Assistant](https://github.com/ehlacy01/Synopsis)
 
