@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front end development with React and AWS**
 
-- 🤝 I want to collaborate on [Watson Virtual Assistant](https://github.com/ehlacy01/Synopsis)
+- 🤝 I want to collaborate
 
 - 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning**
 
